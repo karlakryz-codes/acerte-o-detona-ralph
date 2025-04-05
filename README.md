@@ -12,7 +12,7 @@ Feito com **HTML**, **CSS** e **JavaScript** puro. 🚀
 4. Você tem 60 segundos ⏱️ para marcar o maior número de pontos possível.
 5. Ao final do tempo, sua pontuação será exibida.
 
-## 📸 Preview
+## 📸 
 
 ![Preview do Projeto](SRC/imagens/ralph2.png)
 
