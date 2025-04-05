@@ -17,6 +17,7 @@ Feito com **HTML**, **CSS** e **JavaScript** puro. 🚀
 ![Acerte o Detona Ralph](./src/imagens/ralph2.png )
 
 
+
 ## 🔁 Botões
 
 - **🔄 Jogar Novamente**: Reinicia o jogo sem precisar recarregar a página.
