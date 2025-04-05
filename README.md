@@ -53,7 +53,9 @@ Ideal para quem está estudando JavaScript e quer aprender com um projeto práti
 - Reinício do jogo sem recarregar a página
 - Contador regressivo de tempo
 
-## 🚀 Vamos jogar?
+## 🎮 Vamos jogar!
+
+👉 [Clique aqui para jogar!](https://karlakryz-codes.github.io/acerte-o-detona-ralph/)
 
 
 
