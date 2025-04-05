@@ -14,7 +14,8 @@ Feito com **HTML**, **CSS** e **JavaScript** puro. 🚀
 
 ## 📸 Preview
 
-![Acerte o Detona Ralph](./src/imagens/ralph2.png )
+![Preview do Projeto](SRC/imagens/ralph2.png)
+
 
 
 
