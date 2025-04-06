@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F772D4&center=true&vCenter=true&width=1000&lines=🎯+Acerte+o+Detona+Ralph!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F772D4&center=true&vCenter=true&width=1000&lines=🎯+Acerte+o+Ralph!" alt="Typing SVG" />
 
 
 Bem-vindo(a) ao **Acerte o Detona Ralph**!  
