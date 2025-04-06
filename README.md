@@ -1,4 +1,5 @@
-# 🎯 Acerte o Detona Ralph
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F772D4&center=true&vCenter=true&width=1000&lines=🎯+Acerte+o+Detona+Ralph!" alt="Typing SVG" />
+
 
 Bem-vindo(a) ao **Acerte o Detona Ralph**!  
 Um mini game divertido onde você deve ser rápido(a) e clicar no quadrado onde o Ralph aparece.  
