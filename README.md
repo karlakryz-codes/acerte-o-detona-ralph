@@ -14,7 +14,7 @@ Feito com **HTML**, **CSS** e **JavaScript** puro. 🚀
 
 ## 📸 Preview
 
-![Preview do Projeto](SRC/imagens/ralph2.png)
+![Preview do Projeto](SRC/imagens/jogo.jpg)
 
 
 
